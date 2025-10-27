@@ -8,7 +8,7 @@ Agent-powered tooling for building full-stack web apps without the ceremony. Web
 - [Package Registry](https://github.com/orgs/webstir-io/packages) — published artifacts for frontend and backend providers
 
 ## Ecosystem Snapshot
-- `webstir-frontend`: Vite-based build + publish pipeline for UI assets
+- `webstir-frontend`: esbuild-powered build + publish pipeline for UI assets
 - `webstir-backend`: TypeScript build provider that wires diagnostics into the CLI
 - `module-contract` & `testing-contract`: shared API contracts for data and testing automation
 - `workspace-tools`: helper scripts, cross-repo utilities, and automation experiments
