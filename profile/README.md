@@ -17,7 +17,7 @@ Agent-powered tooling for building full-stack web apps without the ceremony. Web
 - `webstir-dotnet`: .NET workspace framework, CLI, and automation hosts
 - `webstir-testing`: test runner and harness aligned with the testing contract
 - `module-contract` & `testing-contract`: shared TypeScript + JSON schemas for providers and test events
-- `workspace-tools`: helper scripts, cross-repo utilities, and automation experiments
+- `webstir-workspace`: helper scripts, cross-repo utilities, and automation experiments
 - `webstir-portal`: docs hub detailing mission, workflows, and tutorials
 
 ## Ways to Contribute
