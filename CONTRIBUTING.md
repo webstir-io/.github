@@ -4,7 +4,8 @@ Thanks for your interest in improving the Webstir ecosystem! These guidelines co
 
 ## Quick Checklist
 - Review the [Code of Conduct](./CODE_OF_CONDUCT.md) and uphold it in all community spaces.
-- Read the repo-specific `CONTRIBUTING.md` (for example, the [webstir-dotnet guide](https://github.com/webstir-io/webstir-dotnet/blob/main/CONTRIBUTING.md)).
+- Read the repo-specific `CONTRIBUTING.md` when present, plus that repo's README and workflow docs before sending changes.
+- If you are unsure where to start, begin with the [webstir monorepo](https://github.com/webstir-io/webstir), which is the current main entrypoint for the framework and docs.
 - Open an issue to propose larger features before starting work when possible.
 
 ## Development Workflow
