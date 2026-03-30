@@ -16,7 +16,6 @@ Webstir is a server-first, HTML-first framework for building low-JS web apps. Th
 - `webstir`: canonical monorepo for framework code, docs, examples, and the active Bun workflow
 - `module-contract` and `testing-contract`: shared contracts for framework plugins and test tooling
 - `webstir-frontend`, `webstir-backend`, and `webstir-testing`: published package identities whose active source now lives in the monorepo
-- `vite-frontend` and `vitest-testing`: focused provider repos for frontend and testing integrations
 - Older split repos like `webstir-dotnet`, `webstir-portal`, `webstir-demos`, and `webstir-hub` remain useful historical or focused references, but they are not the main entrypoint anymore
 
 ## Ways to Contribute
